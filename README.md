@@ -15,3 +15,7 @@ install.sh
 # Run 
 
 sudo bash install.sh
+
+# Bitcoin
+
+19ZUkLRPDpmzJJB6A4BBwCuwNeje7kNvgq
