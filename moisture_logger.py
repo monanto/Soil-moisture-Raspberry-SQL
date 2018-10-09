@@ -1,5 +1,5 @@
 import RPi.GPIO as GPIO
-import time
+import time,sys
 import datetime
 import MySQLdb
 from time import strftime
@@ -30,6 +30,7 @@ try:
 except Exception as e:
 	print e
 	print "Failed to connected to mysql Database"
+	sys.exit(0)
 
 while True:
 	STATUS=GPIO.input(PIN)
