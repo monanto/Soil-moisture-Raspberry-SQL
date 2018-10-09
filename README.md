@@ -5,8 +5,10 @@ Every n minutes
 
 # Installation
 Enter mysql Server details in both scripts
+
 moisture_logger.py
 install.sh
 
 Run 
+
 sudo bash install.sh
