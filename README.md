@@ -8,5 +8,5 @@ Enter mysql Server details in both scripts
 moisture_logger.py
 install.sh
 
-Run
+Run 
 sudo bash install.sh
