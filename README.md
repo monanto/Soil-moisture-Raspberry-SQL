@@ -1,6 +1,8 @@
 # Soil-moisture-Raspberry-SQL
-Python Script to read
-Status of soil moisture sensor from gpio pin and write result to database mysql
+Python Script to read Status of soil moisture sensor from gpio pin
+
+And write result to database mysql
+
 Every n minutes
 
 # Installation
@@ -10,6 +12,6 @@ moisture_logger.py
 
 install.sh
 
-Run 
+# Run 
 
 sudo bash install.sh
