@@ -7,6 +7,7 @@ Every n minutes
 Enter mysql Server details in both scripts
 
 moisture_logger.py
+
 install.sh
 
 Run 
