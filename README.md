@@ -15,3 +15,6 @@ install.sh
 # Run 
 
 sudo bash install.sh
+# Donations bitcoin
+
+bc1qcjftu37tjlhfvdgyv74hdesgpx9g9nezqk7685
