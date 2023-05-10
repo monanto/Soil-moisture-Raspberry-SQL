@@ -15,6 +15,5 @@ install.sh
 # Run 
 
 sudo bash install.sh
-# Donations bitcoin
 
 
